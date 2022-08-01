@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from pytube import YouTube
 import sys
 
